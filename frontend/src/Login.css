@@ -1,0 +1,7 @@
+/* Import standard Auth styles for consistency */
+@import "./Auth.css";
+
+/* Additional Login specific tweaks if needed */
+.login-card {
+  max-width: 440px;
+}
